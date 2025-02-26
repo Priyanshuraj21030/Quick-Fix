@@ -57,8 +57,8 @@ A modern, responsive landing page for an appliance repair business built with HT
 
 1. Clone the repository:
 
-bash
-git clone https://github.com/yourusername/quickfix-landing.git
+   bash
+   git clone https://github.com/Priyanshuraj21030/Quick-Fix
 
 2. Open `index.html` in your browser or use a local server:
 
